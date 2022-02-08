@@ -1,0 +1,4 @@
+include ':OpenCV452'
+include ':OpenCV451'
+include ':app'
+rootProject.name = "Project_coordination_2"
